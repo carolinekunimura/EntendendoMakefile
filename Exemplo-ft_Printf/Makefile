@@ -6,7 +6,7 @@
 #    By: ckunimur <ckunimur@student.42sp.org.br>    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/01/20 21:22:41 by ckunimur          #+#    #+#              #
-#    Updated: 2023/01/27 18:16:41 by ckunimur         ###   ########.fr        #
+#    Updated: 2023/01/27 18:26:41 by ckunimur         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -27,7 +27,7 @@ AR = ar -rc
 # AR é uma outra variável que também executa um conjunto de comandos
 # ar -> comando para compilar criar uma biblioteca de arquivos (.a)
 # r  -> comando para adicionar arquivos ou substitui arquivos que tenham sido modificados na biblioteca (no caso de um remake)
-# c  -> quando um arquivo é criado é emitido uma mensagem de erro padrão, esse comando faz com que o novo arquivo seja criado silenciosamente, sem notificação.
+# c  -> quando um arquivo é criado é emitido uma mensagem de  execução, esse comando faz com que o novo arquivo seja criado silenciosamente, sem notificação.
 
 RM = rm -f
 # rm -> comando para remover arquivos ou pastas
