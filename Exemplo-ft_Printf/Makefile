@@ -66,3 +66,4 @@ fclean: clean 	# executa a função clean apagando os OBJS
 re: fclean all # executa a função fclean e a função make novamente
 
 .PHONY: all clean fclean re
+# .PHONY faz com que que os comandos definidos aqui sejam executados prioritariamente caso exista algum outro arquivo com mesmo nome. 
