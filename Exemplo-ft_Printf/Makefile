@@ -6,7 +6,7 @@
 #    By: ckunimur <ckunimur@student.42sp.org.br>    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/01/20 21:22:41 by ckunimur          #+#    #+#              #
-#    Updated: 2023/01/23 18:40:25 by ckunimur         ###   ########.fr        #
+#    Updated: 2023/01/23 18:59:35 by ckunimur         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -14,7 +14,7 @@
 #Aqui as variaáveis são declaradas em caixa alta (NAME, CFLAGS)
 
 NAME =	libftprintf.a 
-# ALVO = arquivo.a
+# ALVO = biblioteca.a
 #Ao executar o makefile, o objetivo é gerar uma arquivo, no caso -> libftprintf.a 
 CFLAGS = -Wall\
 		-Wextra\
